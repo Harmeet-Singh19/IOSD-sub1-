@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/IOSD-sub1-/static/css/main.54b37da6.chunk.css",
+    "main.css": "/IOSD-sub1-/static/css/main.bb06ff50.chunk.css",
     "main.js": "/IOSD-sub1-/static/js/main.785b2f14.chunk.js",
     "main.js.map": "/IOSD-sub1-/static/js/main.785b2f14.chunk.js.map",
     "runtime-main.js": "/IOSD-sub1-/static/js/runtime-main.b0a99e86.js",
@@ -8,9 +8,9 @@
     "static/js/2.edab78e8.chunk.js": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js",
     "static/js/2.edab78e8.chunk.js.map": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js.map",
     "index.html": "/IOSD-sub1-/index.html",
-    "precache-manifest.e1dc10244719574b8048c7f69d108f87.js": "/IOSD-sub1-/precache-manifest.e1dc10244719574b8048c7f69d108f87.js",
+    "precache-manifest.423f487959cb754be87106aeb58d36d2.js": "/IOSD-sub1-/precache-manifest.423f487959cb754be87106aeb58d36d2.js",
     "service-worker.js": "/IOSD-sub1-/service-worker.js",
-    "static/css/main.54b37da6.chunk.css.map": "/IOSD-sub1-/static/css/main.54b37da6.chunk.css.map",
+    "static/css/main.bb06ff50.chunk.css.map": "/IOSD-sub1-/static/css/main.bb06ff50.chunk.css.map",
     "static/js/2.edab78e8.chunk.js.LICENSE.txt": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js.LICENSE.txt",
     "static/media/CONCERT.jpg": "/IOSD-sub1-/static/media/CONCERT.edb3f451.jpg",
     "static/media/NSUt.png": "/IOSD-sub1-/static/media/NSUt.7f81034f.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0a99e86.js",
     "static/js/2.edab78e8.chunk.js",
-    "static/css/main.54b37da6.chunk.css",
+    "static/css/main.bb06ff50.chunk.css",
     "static/js/main.785b2f14.chunk.js"
   ]
 }
