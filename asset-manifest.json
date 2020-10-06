@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IOSD-sub1-/static/css/main.704c6c63.chunk.css",
-    "main.js": "/IOSD-sub1-/static/js/main.4a420aaa.chunk.js",
-    "main.js.map": "/IOSD-sub1-/static/js/main.4a420aaa.chunk.js.map",
+    "main.css": "/IOSD-sub1-/static/css/main.e65e6ca9.chunk.css",
+    "main.js": "/IOSD-sub1-/static/js/main.1b8bf71b.chunk.js",
+    "main.js.map": "/IOSD-sub1-/static/js/main.1b8bf71b.chunk.js.map",
     "runtime-main.js": "/IOSD-sub1-/static/js/runtime-main.b0a99e86.js",
     "runtime-main.js.map": "/IOSD-sub1-/static/js/runtime-main.b0a99e86.js.map",
     "static/js/2.edab78e8.chunk.js": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js",
     "static/js/2.edab78e8.chunk.js.map": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js.map",
     "index.html": "/IOSD-sub1-/index.html",
-    "precache-manifest.d4bbb834b65d87d8a4be08e0bc9cd352.js": "/IOSD-sub1-/precache-manifest.d4bbb834b65d87d8a4be08e0bc9cd352.js",
+    "precache-manifest.2b05c73ec1363fbe4f59af6e252a4f5f.js": "/IOSD-sub1-/precache-manifest.2b05c73ec1363fbe4f59af6e252a4f5f.js",
     "service-worker.js": "/IOSD-sub1-/service-worker.js",
-    "static/css/main.704c6c63.chunk.css.map": "/IOSD-sub1-/static/css/main.704c6c63.chunk.css.map",
+    "static/css/main.e65e6ca9.chunk.css.map": "/IOSD-sub1-/static/css/main.e65e6ca9.chunk.css.map",
     "static/js/2.edab78e8.chunk.js.LICENSE.txt": "/IOSD-sub1-/static/js/2.edab78e8.chunk.js.LICENSE.txt",
     "static/media/CONCERT.jpg": "/IOSD-sub1-/static/media/CONCERT.edb3f451.jpg",
     "static/media/NSUt.png": "/IOSD-sub1-/static/media/NSUt.7f81034f.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0a99e86.js",
     "static/js/2.edab78e8.chunk.js",
-    "static/css/main.704c6c63.chunk.css",
-    "static/js/main.4a420aaa.chunk.js"
+    "static/css/main.e65e6ca9.chunk.css",
+    "static/js/main.1b8bf71b.chunk.js"
   ]
 }
