@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IOSD-sub1-/static/css/main.68395dd0.chunk.css",
-    "main.js": "/IOSD-sub1-/static/js/main.6b909ad8.chunk.js",
-    "main.js.map": "/IOSD-sub1-/static/js/main.6b909ad8.chunk.js.map",
+    "main.js": "/IOSD-sub1-/static/js/main.7c39f84a.chunk.js",
+    "main.js.map": "/IOSD-sub1-/static/js/main.7c39f84a.chunk.js.map",
     "runtime-main.js": "/IOSD-sub1-/static/js/runtime-main.970a1931.js",
     "runtime-main.js.map": "/IOSD-sub1-/static/js/runtime-main.970a1931.js.map",
     "static/js/2.4566771e.chunk.js": "/IOSD-sub1-/static/js/2.4566771e.chunk.js",
     "static/js/2.4566771e.chunk.js.map": "/IOSD-sub1-/static/js/2.4566771e.chunk.js.map",
     "index.html": "/IOSD-sub1-/index.html",
-    "precache-manifest.c71be75aec964f6042a96c62eff00049.js": "/IOSD-sub1-/precache-manifest.c71be75aec964f6042a96c62eff00049.js",
+    "precache-manifest.c9b658d1c19a9b82d406f82d38a75956.js": "/IOSD-sub1-/precache-manifest.c9b658d1c19a9b82d406f82d38a75956.js",
     "service-worker.js": "/IOSD-sub1-/service-worker.js",
     "static/css/main.68395dd0.chunk.css.map": "/IOSD-sub1-/static/css/main.68395dd0.chunk.css.map",
     "static/js/2.4566771e.chunk.js.LICENSE.txt": "/IOSD-sub1-/static/js/2.4566771e.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.970a1931.js",
     "static/js/2.4566771e.chunk.js",
     "static/css/main.68395dd0.chunk.css",
-    "static/js/main.6b909ad8.chunk.js"
+    "static/js/main.7c39f84a.chunk.js"
   ]
 }
